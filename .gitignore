@@ -19,7 +19,7 @@
 # misc
 .DS_Store
 *.pem
-./service_key.json
+/.service_key.json
 
 # debug
 npm-debug.log*
